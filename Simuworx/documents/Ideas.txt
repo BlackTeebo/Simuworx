@@ -1,0 +1,13 @@
+Simuworx Ideas
+
+Simuworx is planned to be a flexible, highly extensible, network aware framework
+to master simulation tasks in various aspects.
+
+Possible ways to use the framework could be:
+- test parts of your micro controller code for example to test reactions on 
+  changes of inputs. Why don't you simulate your debouncing strategy before
+  you flash it to your controller?
+- test behaviour of your rulesystem depending of various inputs!
+- use simulation accross your network to have a distributed simulation environment
+  for multiple tasks
+- ... more ideas? Realize them!
